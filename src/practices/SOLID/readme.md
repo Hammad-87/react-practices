@@ -1,4 +1,4 @@
-#Single-responsibility 
+# Single-responsibility 
 The single-responsibility principle (SRP) is a computer-programming principle that states that every module or class[1] should have responsibility over a single part of the functionality provided by the software, and that responsibility should be entirely encapsulated by the class, module or function. All its services should be narrowly aligned with that responsibility.
 #Open-Closed 
 In object-oriented programming, the open/closed principle states "software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification
