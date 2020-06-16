@@ -7,7 +7,7 @@ In object-oriented programming, behavioral subtyping is the principle that subcl
 #Interface segregation
 In the field of software engineering, the interface-segregation principle (ISP) states that no client should be forced to depend on methods it does not use.[1] ISP splits interfaces that are very large into smaller and more specific ones so that clients will only have to know about the methods that are of interest to them. Such shrunken interfaces are also called role interfaces.[2] ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy. ISP is one of the five SOLID principles of object-oriented design, similar to the High Cohesion Principle of GRASP.[3]
 
-#Dependency inversion
+# Dependency inversion
 In object-oriented design, the dependency inversion principle is a specific form of decoupling software modules. When following this principle, the conventional dependency relationships established from high-level, policy-setting modules to low-level, dependency modules are reversed, thus rendering high-level modules independent of the low-level module implementation details. The principle states:[1]
 
 High-level modules should not depend on low-level modules. Both should depend on abstractions (e.g. interfaces).

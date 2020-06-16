@@ -1,4 +1,5 @@
-#React.Children
+# React.Children
+
 React.Children provides utilities for dealing with the this.props.children opaque data structure.
 
 React.Children.map
