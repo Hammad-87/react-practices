@@ -7,9 +7,7 @@ function App() {
     <div>
         <Query
                parameters={{
-            results:20,
-            nat:"usa",
-            gender:"female"
+    results: 20, nat: "usa", gender: "female"
         }}>
           <Users/>
         </Query>
