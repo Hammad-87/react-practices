@@ -11,7 +11,6 @@ function User(props) {
                 </Col>
                 <Col xs={8}>
                     <h1>{user.name.first + " "+ user.name.last}</h1>
-
                 </Col>
             </Row>
         </div>
